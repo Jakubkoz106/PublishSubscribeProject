@@ -1,0 +1,48 @@
+#Opis zasobow
++ qTemperature,quantity,Z0 # sygnal wejsciowy przyjmuje wartosci: 0 to 0C  1023 to 40C
++ qHumidity,quantity,Z1 # 
++ qLight,quantity,Z2 # 
++ qOxygenation,quantity,Z3 # 
++ qCarbonDioxide,quantity,Z4 # 
+
+#test nr.1
+: 0, qTemperature, 10
+: 0, qHumidity, 10
+: 0, qLight, 10
+: 0, qOxygenation, 10
+: 0, qCarbonDioxide, 10
+: 32000000, qTemperature, 562
+: 48000000, qHumidity, 588
+: 64000000, qLight, 614
+: 80000000, qOxygenation, 614
+: 96000000, qCarbonDioxide, 588
+: 112000000, qTemperature, 562
+: 128000000, qHumidity, 536
+: 144000000, qLight, 536
+: 160000000, qOxygenation, 510
+: 176000000, qCarbonDioxide, 536
+: 192000000, qTemperature, 562
+: 208000000, qHumidity, 570
+: 224000000, qLight, 591
+: 240000000, qOxygenation, 543
+: 256000000, qCarbonDioxide, 554
+: 272000000, qTemperature, 600
+: 288000000, qHumidity, 641
+: 304000000, qLight, 690
+: 320000000, qOxygenation, 712
+: 336000000, qCarbonDioxide, 801
+: 352000000, qTemperature, 824
+: 368000000, qHumidity, 855
+: 384000000, qLight, 917
+: 400000000, qOxygenation, 1023
+: 416000000, qCarbonDioxide, 956
+: 432000000, qTemperature, 844
+: 448000000, qHumidity, 511
+: 464000000, qLight, 498
+: 480000000, qOxygenation, 456
+: 496000000, qCarbonDioxide, 402
+: 512000000, qTemperature, 384
+: 528000000, qHumidity, 340
+: 544000000, qLight, 421
+: 560000000, qOxygenation, 642
+: 576000000, qCarbonDioxide, 514

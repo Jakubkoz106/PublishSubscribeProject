@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "subscription_message_list.h": "c",
+        "alp.h": "c",
+        "timer.h": "c"
+    }
+}

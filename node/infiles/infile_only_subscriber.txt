@@ -1,0 +1,13 @@
+#Opis zasobow
++ qTemperature,quantity,Z0 # sygnal wejsciowy przyjmuje wartosci: 0 to 0C  1023 to 40C
++ qHumidity,quantity,Z1 # 
++ qLight,quantity,Z2 # 
++ qOxygenation,quantity,Z3 # 
++ qCarbonDioxide,quantity,Z4 # 
+
+#test nr.1
+: 0, qTemperature, 0
+: 0, qHumidity, 0
+: 0, qLight, 0
+: 0, qOxygenation, 0
+: 0, qCarbonDioxide, 0

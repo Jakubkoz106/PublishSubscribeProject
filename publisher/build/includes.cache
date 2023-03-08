@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Janek\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Janek\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Janek\\Desktop\\studia\\sem5\\PSIR\\Sosulski_Jan_Krzysztof\\projekt\\publisher\\build\\sketch\\alp.c.cpp",
+    "Include": "ZsutEthernet.h",
+    "Includepath": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Janek\\Desktop\\studia\\sem5\\PSIR\\Sosulski_Jan_Krzysztof\\projekt\\publisher\\build\\sketch\\alp.c.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\Zsut.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\ZsutDhcp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\ZsutDns.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\ZsutEthernet.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\ZsutEthernetUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\ZsutFeatures.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\ZsutIPAddress.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\utility\\socket.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\Janek\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\utility\\socket.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\OneDrive - Politechnika Warszawska\\Documents\\Arduino\\libraries\\ZsutEthernet\\src\\utility\\w5100.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Janek\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
